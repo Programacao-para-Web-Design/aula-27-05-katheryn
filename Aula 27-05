@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang = "pt-br">
+	<head>
+		<meta charset = "utf-8">
+    <link rel="stylesheet" type="text/css" href="stylesheet.css" media="screen" />
+	</head>
+	<body>
+		<header>
+      <h1> CEMMTI BAIXO GUANDU </h1>
+      <img src="logo.png"/>
+		</header>
+	  <main>
+			
+		</main>
+
+		<footer>
+			<i>Katheryn</i>
+		</footer>
+	</body>
+<html>
