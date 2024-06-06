@@ -1,5 +1,5 @@
 
-			.nome{
+			#nome{
 				font-weight: bold;	
 				font-size: 17px;
 				text-align: center;
@@ -16,8 +16,8 @@
 			}
 			img{
 				background-color: white;
-				width:"320";
-				height:"205";
+				width:320px;
+				height:205px;
 			#nav{
 				background-color: red;
 				box-shadow: 7px 7px 9px 0px black;
