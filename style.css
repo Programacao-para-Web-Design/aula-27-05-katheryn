@@ -1,17 +1,10 @@
-			#nome{
-				font-weight: bold;	
-				font-size: 17px;
-				text-align: center;
-			}
-			#nome1{
-				font-size: 17px;
-				text-align: center;
+			
+			
+			body{
+				background-color: purple; 
 			}
 			header{
 				background-color: pink; 
-			}
-			body{
-				background-color: purple; 
 			}
 			section{
 				background-color: red;
@@ -32,6 +25,15 @@
 			#main{
 				background-color: green; 
 
+			}
+			#nome{
+				font-weight: bold;	
+				font-size: 17px;
+				text-align: center;
+			}
+			#nome1{
+				font-size: 17px;
+				text-align: center;
 			}
 			#tres{
 				background-color: orange; 
