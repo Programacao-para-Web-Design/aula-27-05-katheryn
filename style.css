@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt br">
-	<head>
-		<style>
+
 			.nome{
 				font-weight: bold;	
 				font-size: 17px;
@@ -19,6 +16,8 @@
 			}
 			#logo{
 				background-color: white;
+				width:"320";
+				height:"205";
 			#nav{
 				background-color: red;
 				box-shadow: 7px 7px 9px 0px black;
@@ -46,8 +45,3 @@
            			font-size: 25px;
 				text-align: center;
 			}
-		</style>
-	</head>
-	<body>
-	</body>
-</html>
