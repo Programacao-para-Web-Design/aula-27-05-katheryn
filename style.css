@@ -27,9 +27,7 @@
 			}
 			#main{
 				background-color: green; 
-				display: flex;
-				justify-content: space-aroud;
-				flex-direction: column;
+
 			}
 			#tres{
 				background-color: orange; 
