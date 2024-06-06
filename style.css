@@ -14,6 +14,7 @@
 				background-color: pink; 
 				display: flex;
 				justify-content: space-aroud;
+				flex-direction: column;
 			}
 			#img{
 				background-color: white;
