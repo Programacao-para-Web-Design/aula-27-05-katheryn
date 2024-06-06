@@ -13,6 +13,7 @@
 			#Header{
 				background-color: pink; 
 				display: flex;
+				justify-content: space-arround;
 			}
 			#img{
 				background-color: white;
