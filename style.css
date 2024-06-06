@@ -19,31 +19,31 @@
 			}
 			#logo{
 				background-color: white;
-			#Nav{
+			#nav{
 				background-color: red;
 				box-shadow: 7px 7px 9px 0px black;
 			}
-			#man{
+			#main{
 				background-color: green; 
 			}
-			#ass{
+			#tres{
 				background-color: orange; 
 			}
-			#sex{
+			#meio{
 				background-color: blue; 
 			}
-			#art{
+			#um{
 				background-color: gray; 
 			}
-			#art2{
+			#dois{
 				background-color: turquoise; 
 			}
-			#ass2{
+			#quatro{
 				background-color: brown; 
 			}
-			#fot{
+			#footer{
 				background-color: white; 
-            font-size: 25px;
+           			font-size: 25px;
 				text-align: center;
 			}
 		</style>
