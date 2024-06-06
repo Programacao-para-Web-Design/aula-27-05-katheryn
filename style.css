@@ -49,6 +49,7 @@
 			}
 			#quatro{
 				background-color: brown; 
+				flex-direction: column;
 			}
 			#k{
            			font-size: 25px;
