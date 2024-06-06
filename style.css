@@ -12,6 +12,7 @@
 			}
 			#Header{
 				background-color: pink; 
+				display: flex;
 			}
 			#img{
 				background-color: white;
