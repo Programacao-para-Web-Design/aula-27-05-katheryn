@@ -10,7 +10,7 @@
 			#Body{
 				background-color: purple; 
 			}
-			#Header{
+			#header{
 				background-color: pink; 
 				display: flex;
 				justify-content: space-aroud;
