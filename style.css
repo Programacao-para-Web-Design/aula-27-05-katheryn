@@ -7,13 +7,17 @@
 				font-size: 17px;
 				text-align: center;
 			}
-			#Body{
+			header{
+				background-color: pink; 
+			}
+			body{
 				background-color: purple; 
 			}
-			#header{
-				background-color: pink; 
-				
+			section{
+				background-color: red;
 			}
+			
+
 			#img{
 				background-color: white;
 				width:320px;
